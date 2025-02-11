@@ -37,7 +37,6 @@ AI Cancer Care provides an easy and efficient way to craft personalized cancer c
 
 This project is deeply personal to me. My grandmother recently passed away from cancer, and witnessing her struggle firsthand inspired me to create a solution that could help others in similar situations. She often faced difficulties in coordinating her care and keeping track of her treatment plan, which sometimes led to missed appointments and delayed treatments. I wanted to build an application that could alleviate these challenges for other patients and their families.
 
-## ⚙️ Setup and Deployment
 ## 🚀 Usage
 
 1. **Upload Reports**: Patients or healthcare providers can upload medical reports directly into the system.
