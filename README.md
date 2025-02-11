@@ -78,7 +78,7 @@ const handleFileUpload = async (file, filetype) => {
     },
   ];
 
-  const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro" });
+  const model = genAI.getGenerativeModel({ mod: "gemini-1.5-pro" });
   const prompt = "Analyze this medical image and provide insights.";
 
   const result = await model.generateContent([prompt, ...imageParts]);
