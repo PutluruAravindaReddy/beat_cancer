@@ -19,11 +19,10 @@
 1. 🤖 [Introduction](#introduction)
 2. 🔋 [Features](#features)
 3. 🏆 [Inspiration](#inspiration)
-4. ⚙️ [Setup and Deployment](#setup-and-deployment)
-5. 🚀 [Usage](#usage)
-6. 🌠 [Gemini AI Integration](#gemini-ai-integration)
-7. 🤝 [Contributing](#contributing)
-8. 📜 [License](#license)
+4. 🚀 [Usage](#usage)
+5. 🌠 [Gemini AI Integration](#gemini-ai-integration)
+6. 🤝 [Contributing](#contributing)
+7. 📜 [License](#license)
 
 ## 🤖 Introduction
 
@@ -39,40 +38,6 @@ AI Cancer Care provides an easy and efficient way to craft personalized cancer c
 This project is deeply personal to me. My grandmother recently passed away from cancer, and witnessing her struggle firsthand inspired me to create a solution that could help others in similar situations. She often faced difficulties in coordinating her care and keeping track of her treatment plan, which sometimes led to missed appointments and delayed treatments. I wanted to build an application that could alleviate these challenges for other patients and their families.
 
 ## ⚙️ Setup and Deployment
-
-### Prerequisites
-
-- Node.js and npm installed
-
-### Steps
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/mendsalbert/beat-cancer.git
-   cd beat-cancer
-   ```
-
-2. **Install Dependencies**
-
-   ```bash
-   npm install
-   ```
-
-3. **Setup Environment Variables**
-
-   Create a `.env` file in the root directory with the following content:
-
-   ```plaintext
-   VITE_GEMINI_API_KEY='Gemini api key here'
-   ```
-
-4. **Build the Project**
-
-   ```bash
-   npm run build
-   ```
-
 ## 🚀 Usage
 
 1. **Upload Reports**: Patients or healthcare providers can upload medical reports directly into the system.
@@ -126,6 +91,7 @@ const handleFileUpload = async (file, filetype) => {
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
+
 
 ## 📜 License
 
